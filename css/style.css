@@ -1,0 +1,85 @@
+body.form-header{
+    background-color: #4a148c;
+    width: 100%;
+}
+
+html, body{
+    height: 100%;
+}
+
+h2{
+    font-size: 25px;
+    color: #777;
+}
+
+.font-special h2{
+    z-index: 2;
+    position: relative;
+    display: inline-block;
+    background-color: #fff;
+    padding: 0px 2% 0px 0px;
+}
+
+.special-h2{
+    width: 100%;
+    background-color: #4a148c;
+    height: 2px;
+    margin: 0 2px;
+    position: relative;
+    top: 43px;
+    z-index: 1;
+}
+.first-input{
+    background-color: #4a148c;
+    margin-top: 100px;
+    max-width: 450px;
+    padding: 0 2%;
+}
+
+.first-input{
+    padding: 20px;
+}
+
+.about-team{
+    margin-top: 120px;
+}
+
+.cool-places{
+    margin-top: 120px;
+}
+
+.equipe{
+    margin-top: 120px;
+}
+
+i.profile{
+    position: relative;
+    top: -30px;
+}
+
+.card2{
+    min-height: 350px;
+    max-height: 400px;
+}
+
+.contato{
+    margin-top: 120px;
+}
+
+footer{
+    margin-top: 120px;
+}
+
+@media screen and (max-width: 768px){
+    .first-input{
+        background-color: #4a148c;
+        margin-top: 100px;
+        max-width: 350px;
+    }
+
+    #first_name{
+        width: 100%;
+    }
+}
+
+
