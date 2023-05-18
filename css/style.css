@@ -76,9 +76,8 @@ footer{
         margin-top: 100px;
         max-width: 350px;
     }
-
-    #first_name{
-        width: 450px;
+    .input-email{
+        max-width: 350px;
     }
 }
 
